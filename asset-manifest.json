@@ -1,9 +1,16 @@
 {
-  "main.css": "static/css/main.49037d80.css",
-  "main.css.map": "static/css/main.49037d80.css.map",
-  "main.js": "static/js/main.3ac86911.js",
-  "main.js.map": "static/js/main.3ac86911.js.map",
-  "static/media/1.jpeg": "static/media/1.9714f3ec.jpeg",
-  "static/media/2.jpeg": "static/media/2.2c517f18.jpeg",
-  "static/media/3.mp4": "static/media/3.42720896.mp4"
+  "main.css": "static/css/main.3f6b399a.css",
+  "main.css.map": "static/css/main.3f6b399a.css.map",
+  "main.js": "static/js/main.a6b9a84d.js",
+  "main.js.map": "static/js/main.a6b9a84d.js.map",
+  "static/media/content.png": "static/media/content.d35afb23.png",
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static/media/map.jpg": "static/media/map.dc9d86a9.jpg",
+  "static/media/shoe1.jpg": "static/media/shoe1.1bbab089.jpg",
+  "static/media/shoe2.jpg": "static/media/shoe2.4306b8c8.jpg",
+  "static/media/shoe3.jpg": "static/media/shoe3.ff428943.jpg",
+  "static/media/user.svg": "static/media/user.0fe214e3.svg",
+  "static/media/wspv1.jpg": "static/media/wspv1.90326608.jpg",
+  "static/media/wspv2.jpg": "static/media/wspv2.06fa407d.jpg",
+  "static/media/wspv3.jpg": "static/media/wspv3.26d9f1cf.jpg"
 }
